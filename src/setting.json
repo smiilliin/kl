@@ -1,0 +1,11 @@
+{
+  "출력": "console.log",
+  "더하기": "addtion",
+  "빼기": "subtraction",
+  "곱하기": "multiplication",
+  "나누기": "division",
+  "변수초기화": "this.set",
+  "변수값": "this.get",
+  "변수증가": "this.increase",
+  "변수감소": "this.decrease"
+}
