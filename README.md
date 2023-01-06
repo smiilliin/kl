@@ -6,12 +6,13 @@ kl is a korean programming language
 
 ```bash
 npm install
+tsc
 ```
 
 ## Run
 
 ```bash
-tsc && electron .
+electron .
 ```
 
 ## KL
