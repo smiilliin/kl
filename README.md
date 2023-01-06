@@ -12,7 +12,7 @@ tsc
 ## Run
 
 ```bash
-electron .
+npx electron .
 ```
 
 ## KL
