@@ -1,4 +1,4 @@
-# KL - Korean Language
+# KL - Korean Programming Language
 
 kl is a korean programming language
 
